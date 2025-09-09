@@ -98,5 +98,13 @@ ngfts.lge.com
 vortex.data.microsoft.com
 vortex-win.data.microsoft.com
 settings-win.data.microsoft.com
-
-
+log.pinterest.com
+analytics.pinterest.com
+trk.pinterest.com
+analytics.tiktok.com
+analytics-sg.tiktok.com
+extmaps-api.yandex.net
+adfox.yandex.ru
+advertising.apple.com
+metrics.icloud.com
+metrics.mzstatic.com
